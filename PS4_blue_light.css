@@ -281,6 +281,7 @@ background-position: 0 -70px;
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
     background-image: url(https://cdn.rawgit.com/dcbartlett/GameViewerSkins/master/ps4-white-assets/base.svgz);
+    filter: hue-rotate(90deg);
 }
 
 .ds4.white.disconnected {
