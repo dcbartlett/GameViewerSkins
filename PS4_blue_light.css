@@ -280,11 +280,11 @@ background-position: 0 -70px;
 
 /*BEGIN PS4 White Controller Styling*/
 .controller.ds4.white {
-    background-image: url(https://raw.githubusercontent.com/dcbartlett/GameViewerSkins/master/ps4-white-assets/base.svgz);
+    background-image: url(ps4-white-assets/base.svgz);
 }
 
 .ds4.white.disconnected {
-    background: url(https://raw.githubusercontent.com/dcbartlett/GameViewerSkins/master/ps4-white-assets/disconnected.svgz);
+    background: url(ps4-white-assets/disconnected.svgz);
 }
 
 .ds4.white .trigger {
