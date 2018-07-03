@@ -27,6 +27,7 @@
     height: 100%;
     background: url(ps4-assets/triggers.svgz);
     opacity: 0;
+    filter: hue-rotate(180deg);
 }
 
 .ds4 .trigger.left {
